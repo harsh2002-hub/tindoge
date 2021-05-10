@@ -1,0 +1,244 @@
+#title {
+  background-color: #ff4c68;
+  padding-bottom: 0;
+  color: white;
+  margin-bottom: 0;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.fixed {
+  position: fixed;
+}
+
+.font1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: white;
+  font-weight: bolder;
+  padding-bottom: 2rem;
+}
+
+.container-fluid {
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-top: 3%;
+  padding-bottom: 8%;
+}
+
+.btn {
+  margin-left: 0.3rem;
+  margin-right: 0.3rem;
+}
+
+.image-down {
+  height: 1.2rem;
+  width: 1.2rem;
+  float: left;
+  background-color: black;
+}
+
+.bold {
+  font-weight: bolder;
+}
+
+.he {
+  font-size: 3rem;
+  margin-bottom: 2rem;
+}
+
+.naa {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  font-weight: bold;
+}
+
+.dog {
+  width: 18rem;
+  margin-bottom: 0;
+  margin-left: 7rem;
+  transform: rotate(20deg);
+  position: absolute;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.navbar {
+  padding: 0 0 1.5rem;
+}
+
+.abc {
+  text-align: center;
+  margin-bottom: 1rem;
+  padding-right: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+.row {
+  margin-top: 6rem;
+}
+
+h3 {
+  font-family: Montserrat-bold;
+  font-weight: bold;
+}
+
+.sio {
+  padding: 0% 15%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.xyz {
+  font-size: 2.5rem;
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.xyz:hover {
+  color: #ff4c68;
+}
+
+.abc1 {
+  margin-right: 0;
+}
+
+.abc2 {}
+
+.abc3 {
+  margin-left: 0;
+}
+
+.wi {
+  width: 60%;
+  margin: auto;
+  padding-top: 8rem;
+  margin-bottom: 5rem;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.doo {
+  margin-left: 7rem;
+}
+
+#testimonials {
+  background-color: #ff4c68;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+
+.cde {
+  padding: 3% 15%;
+  text-align: center;
+}
+
+h2 {
+  font-size: 3rem;
+  margin-bottom: 2rem;
+  font-weight: bold;
+}
+
+.dog2 {
+  width: 20%;
+  border-radius: 100%;
+  margin: 1.2rem;
+}
+
+.pres {
+  background-color: #ff4c68;
+  text-align: center;
+  padding-bottom: 3rem;
+}
+
+.pree {
+  width: 17%;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+}
+
+.carousel-item {
+  padding: 3% 20%;
+}
+
+.poi {
+  width: 100%;
+}
+
+.uio {
+  font-weight: bolder;
+}
+
+#features {
+  background-color: white;
+  position: relative;
+}
+
+@media (max-width: 1028px) {
+  .dog {
+    transform: rotate(0);
+    position: static;
+    margin-top: 2rem;
+    margin-left: auto;
+  }
+
+  #title {
+    background-color: #ff4c68;
+    color: white;
+    margin-bottom: 1rem;
+  }
+
+  .row {
+    text-align: center;
+  }
+}
+
+#cta {
+  text-align: center;
+  padding-top: 3rem;
+  padding-bottom: 7rem;
+  background-color: #ff4c68;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+.qqqq {
+  width: 60%;
+  text-align: center;
+  margin: auto;
+}
+
+#footer {
+  text-align: center;
+  margin: 2.5rem auto 2.5rem auto;
+}
+
+.foo {
+  font-size: 2rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  padding-top: 4rem;
+  color: #ff4c68;
+}
+
+.foo:hover {
+  color: black;
+}
